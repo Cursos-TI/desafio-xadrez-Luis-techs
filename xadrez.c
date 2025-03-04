@@ -4,6 +4,7 @@
 // Implementamos um menu interativo para ficar mais divertido para o usuário; - 04/03/2025
 // Utilizamos a estrutura Do-While para fazer o menu interavivo, dando as o chance do jogador escolher a peça ou se deseja sair do jogo; - 04/03/2025
 // Utilizamos a estrutura de repetição While para simular a quantidade de casas que foi andada de acordo com a escolha do jogador; - 04/03/2025
+// Tentativa de fazer um jogo de xadrez de forma interativa; - 04/03/2025
 
 
 
